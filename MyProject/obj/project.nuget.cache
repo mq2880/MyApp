@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VULKlYN9MIDrZO5opZWlCVSrpj4Bx/o++JXgtmmlQ3XpWrItn5H35msV0rk3p2e7hfcv4BHTz6Qqbf+YdvgAcA==",
+  "success": true,
+  "projectFilePath": "D:\\20487C\\Demo\\20487-Mod6-Demo-Lesson3\\MyApp\\MyProject\\MyProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mq288\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mq288\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mq288\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\mq288\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\mq288\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\mq288\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
